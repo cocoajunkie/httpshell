@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'HttpShell' target in the 'HttpShell' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
